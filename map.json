@@ -1,0 +1,202 @@
+[
+  {
+    "id": 0,
+    "name": "Toronto",
+    "country": "Canada",
+    "story": "A diverse city with iconic landmarks like the CN Tower, Toronto offers cultural festivals, diverse neighborhoods, and scenic waterfronts",
+    "navigation": [3, 5, 7],
+    "win": 0,
+    "lose": 0,
+    "event": 0
+  },
+  {
+    "id": 1,
+    "name": "Paris",
+    "country": "France",
+    "story": "The City of Lights, is known for its romantic ambiance, iconic landmarks like the Eiffel Tower, and a rich history of art and culture",
+    "navigation": [4,9,19],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 2,
+    "name": "Tokyo",
+    "country": "Japan",
+    "story": "A futuristic metropolis blending tradition and technology, with vibrant neighborhoods, high-tech gadgets, and exquisite cuisine",
+    "navigation": [10,15,18],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 3,
+    "name": "Cairo",
+    "country": "Egypt",
+    "story": "Home to the Pyramids of Giza and the Sphinx, Cairo boasts a captivating blend of ancient wonders and bustling modern life along the Nile",
+    "navigation": [7,8,9],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 4,
+    "name": "Rio de Janeiro",
+    "country": "Brazil",
+    "story": "Famous for its lively Carnival, stunning beaches like Copacabana and Ipanema, and the towering Christ the Redeemer statue",
+    "navigation": [2,8,10],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 5,
+    "name": "Marrakech",
+    "country": "Morocco",
+    "story": "A sensory feast with bustling markets, intricate architecture, and a maze-like medina filled with vibrant colors and rich aromas",
+    "navigation": [3,4,12],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 6,
+    "name": "Sydney",
+    "country": "Australia",
+    "story": "Iconic for the Sydney Opera House and Sydney Harbour Bridge, the city offers stunning beaches, a diverse culture, and a laid-back atmosphere",
+    "navigation": [9,11,15],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 7,
+    "name": "Venice",
+    "country": "Italy",
+    "story": "Renowned for its intricate canals, historic architecture, and romantic gondola rides through charming waterways",
+    "navigation": [12,15,17],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 8,
+    "name": "Las Vegas",
+    "country": "USA",
+    "story": "Known as the Entertainment Capital of the World, Las Vegas is renowned for its vibrant nightlife, world-class casinos, and iconic Strip lined with dazzling lights and themed resorts",
+    "navigation": [3,11,18],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 9,
+    "name": "New York",
+    "country": "USA",
+    "story": "The city that never sleeps, with its towering skyscrapers, Broadway theaters, Central Park, and a melting pot of cultures",
+    "navigation": [5,8,14],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 10,
+    "name": "Istanbul",
+    "country": "Turkey",
+    "story": "The City of the Cat, where labyrinthine streets and ancient bazaars cradle the enchanting tales of feline companions that have wandered these historic paths for centuries",
+    "navigation": [1,7,12],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 11,
+    "name": "Bangkok",
+    "country": "Thailand",
+    "story": "A bustling city of contrasts, Bangkok features ornate temples, vibrant street markets, and lively nightlife",
+    "navigation": [6,11,16],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 12,
+    "name": "Moscow",
+    "country": "Russia",
+    "story": "Home to the iconic Red Square, St. Basil's Cathedral, and the Kremlin, Moscow is a blend of history, architecture, and art",
+    "navigation": [3,9,18],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 13,
+    "name": "Nairobi",
+    "country": "Kenya",
+    "story": "Gateway to African safaris, Nairobi offers wildlife reserves, Maasai markets, and a vibrant urban atmosphere. You lose!",
+    "navigation": [],
+    "win": 0,
+    "lose": 1,
+    "event": 0
+  },
+  {
+    "id": 14,
+    "name": "Dubai",
+    "country": "UAE",
+    "story": "A modern marvel of architecture and luxury, Dubai boasts record-breaking skyscrapers, desert adventures, and opulent shopping",
+    "navigation": [6,13,17],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 15,
+    "name": "Seoul",
+    "country": "South Korea",
+    "story": "A blend of tradition and innovation, Seoul offers ancient palaces, cutting-edge technology, and vibrant street food scenes",
+    "navigation": [2,8,11],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 16,
+    "name": "Rome",
+    "country": "Italy",
+    "story": "Steeped in history, Rome is adorned with ancient ruins like the Colosseum, Roman Forum, and the Vatican City",
+    "navigation": [4,10,19],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 17,
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "story": "Known for its passionate tango music and dance, Buenos Aires offers a mix of European flair and Latin American charm",
+    "navigation": [1,5,15],
+    "win": 0,
+    "lose": 0,
+    "event": 1
+  },
+  {
+    "id": 18,
+    "name": "Mumbai",
+    "country": "India",
+    "story": "A bustling hub of culture, Bollywood, and vibrant street life, Mumbai showcases the contrasts of modern India. You lose!",
+    "navigation": [],
+    "win": 0,
+    "lose": 1,
+    "event": 0
+  },
+  {
+    "id": 19,
+    "name": "Copenhagen",
+    "country": "Denmark",
+    "story": "A model of sustainability and design, Copenhagen boasts charming canals, bike-friendly streets, and a thriving food scene. You win!",
+    "navigation": [],
+    "win": 1,
+    "lose": 0,
+    "event": 0
+  }
+]
